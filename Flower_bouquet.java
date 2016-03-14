@@ -2,41 +2,41 @@ import java.util.List;
 
 
 public class Flower_bouquet {
-    private List<Aster> Asters;
-    private List<Chamomile> Chamomiles;
-    private List<Rose> Roses;
-    private List<Tulip> Tulips;
+    private List<Aster> asters;
+    private List<Chamomile> chamomiles;
+    private List<Rose> roses;
+    private List<Tulip> tulips;
     public List<Aster> getAsters() {
-        return Asters;
+        return asters;
 }
 
-public void setAsters(List<Aster> Asters) {
-    this.Asters=Asters;
+public void setAsters(List<Aster> asters) {
+    this.asters=asters;
 }
 
     public List<Chamomile> getChamomiles() {
-        return Chamomiles;
+        return chamomiles;
     }
 
-    public void setChamomiles(List<Chamomile> Chamomiles) {
-        this.Chamomiles=Chamomiles;
+    public void setChamomiles(List<Chamomile> chamomiles) {
+        this.chamomiles=chamomiles;
     }
 
     public List<Rose> getRoses () {
-        return Roses;
+        return roses;
     }
 
-    public void setRoses(List<Rose> Roses) {
-         this.Roses=Roses;
+    public void setRoses(List<Rose> roses) {
+         this.roses=roses;
 
     }
 
     public List<Tulip> getTulips() {
-        return Tulips;
+        return tulips;
     }
 
-    public void setTulips(List<Tulip> Tulips) {
-        this.Tulips=Tulips;
+    public void setTulips(List<Tulip> tulips) {
+        this.tulips=tulips;
     }
 
 
